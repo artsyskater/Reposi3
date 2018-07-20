@@ -1,0 +1,15 @@
+Package: com.artsyskater.asglyphswhite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: artsyskater <prof3ssorice@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.artsyskater.asglyphswhite_1.0_iphoneos-arm.deb
+Size: 212968
+MD5sum: 4d7cbadcc7d40e350ae8fa0b12ac671a
+SHA1: fa8284e4c164d31bbbe13c26ddee4e2f44d77c96
+SHA256: caadd1687947e544a57f8b4fc9acda36e23a32ea5c9b1670fb0238675b03afa1
+Section: Themes (SpringBoard)
+Description: An updated version of Glyphs in white!
+Author: artsyskater <prof3ssorice@gmail.com>
+Name: asGlyphs - White
+
