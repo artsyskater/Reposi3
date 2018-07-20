@@ -1,0 +1,9 @@
+Package: com.artsyskater.asglyphsred
+Name: asGlyphs - Red
+Depends: com.anemonetheming.anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An updated version of Glyphs in red!
+Maintainer: artsyskater <prof3ssorice@gmail.com>
+Author: artsyskater <prof3ssorice@gmail.com>
+Section: Themes (SpringBoard)
