@@ -44,7 +44,7 @@
 			<key>minutes</key>
 			<string>#ffffff</string>
 			<key>seconds</key>
-			<string>#ffffff</string>
+			<string>#ff0000</string>
 			<key>redDot</key>
 			<string>#ffffff</string>
 		</dict>

@@ -1,7 +1,7 @@
 Package: com.artsyskater.asglyphsblack
 Name: asGlyphs - Black
 Depends: com.anemonetheming.anemone
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: An updated version of Glyphs in black!
 Maintainer: artsyskater <prof3ssorice@gmail.com>
