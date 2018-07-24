@@ -1,133 +1,133 @@
 Package: com.artsyskater.asglyphsblack
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: artsyskater <prof3ssorice@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.artsyskater.asglyphsblack_2.0_iphoneos-arm.deb
-Size: 826594
-MD5sum: 823e661de86ccee249fafceec28981c9
-SHA1: c533d56d87f72c8a9fb1c049c00e672786bdf138
-SHA256: d3e8e01af307f51571b49badf8e8661793b70566c2ecff51f717d5f0e797834f
+Filename: ./debs/com.artsyskater.asglyphsblack_2.1_iphoneos-arm.deb
+Size: 826412
+MD5sum: 1fde44bc21a5c8457b26685d0e9cd9e7
+SHA1: 1a38db030fa92e9856a8bb8862073cda74cf8b3f
+SHA256: f2e01afaf3b83dd1a6accdeca423dadb28074f4dd0d2a9841aadcacc0f59f148
 Section: Themes (SpringBoard)
 Description: An updated version of Glyphs in black!
 Author: artsyskater <prof3ssorice@gmail.com>
 Name: asGlyphs - Black
 
 Package: com.artsyskater.asglyphsblue
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: artsyskater <prof3ssorice@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.artsyskater.asglyphsblue_2.0_iphoneos-arm.deb
-Size: 875392
-MD5sum: 5a2041c6ddb81b6a364a6a53917cbdfe
-SHA1: 816c60a3037bc8431688ac3b1b04ccf1a8af009f
-SHA256: 5e99454a9cd64286792c65334e7203fc5065fc9859a63d6dae07ea257e8c22dc
+Filename: ./debs/com.artsyskater.asglyphsblue_2.1_iphoneos-arm.deb
+Size: 875236
+MD5sum: b3b921a6b934e006bef40a549de1d428
+SHA1: d66767c2ad8c451235d1d97cf96a0ac5eb17180b
+SHA256: e0d0424f3ce974daf607b5ce7883edf6795b6de46f1cca2de78ca8f0d4d4bda8
 Section: Themes (SpringBoard)
 Description: An updated version of Glyphs in blue!
 Author: artsyskater <prof3ssorice@gmail.com>
 Name: asGlyphs - Blue
 
 Package: com.artsyskater.asglyphsgreen
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: artsyskater <prof3ssorice@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.artsyskater.asglyphsgreen_2.0_iphoneos-arm.deb
-Size: 850160
-MD5sum: 6dffa46388ed04d431aac990e29809bd
-SHA1: 090829249fc1f787cae76772b322018140515eae
-SHA256: 20527db2193d0fe13edee8048eefc57a65bab65f1f864656ac718fa6ff111ab8
+Filename: ./debs/com.artsyskater.asglyphsgreen_2.1_iphoneos-arm.deb
+Size: 874824
+MD5sum: 50ffc8d03a26bc5a5f26f8a193e3f378
+SHA1: b7cfa4041e43a1466dd82cc5af8ca7142a7c32b9
+SHA256: e8e7ee7ec2e043caa33e82cc119968c819333bdfac6ec30c61c46b44b1583dea
 Section: Themes (SpringBoard)
 Description: An updated version of Glyphs in green!
 Author: artsyskater <prof3ssorice@gmail.com>
 Name: asGlyphs - Green
 
 Package: com.artsyskater.asglyphsindigo
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: artsyskater <prof3ssorice@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.artsyskater.asglyphsindigo_2.0_iphoneos-arm.deb
-Size: 1017924
-MD5sum: 3b6c2d3f3f6f2396384a2f5544e2d1a7
-SHA1: 29ed405158e39816681726a5102d96b74676ffa2
-SHA256: c272485c038753eb066d806d7f5466aec7c8e58f3a0beef3c5bd4afe4fef6e58
+Filename: ./debs/com.artsyskater.asglyphsindigo_2.1_iphoneos-arm.deb
+Size: 1017708
+MD5sum: f844bed78222f70356fe3c7d1fed83c5
+SHA1: 7579d5126dda08d5513cb406a66685f1a6a0e400
+SHA256: d28056322e5c992ab170785da65e083af009447c6bf3354dceb327af1a998ad4
 Section: Themes (SpringBoard)
 Description: An updated version of Glyphs in indigo!
 Author: artsyskater <prof3ssorice@gmail.com>
 Name: asGlyphs - Indigo
 
 Package: com.artsyskater.asglyphsorange
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: artsyskater <prof3ssorice@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.artsyskater.asglyphsorange_2.0_iphoneos-arm.deb
-Size: 987554
-MD5sum: aca4cc2ce31199822c8f175ff1539994
-SHA1: 02aa1ed9d71254938c4d2b2a0d33641e923c8d0b
-SHA256: 5d2786efb720a930c472e6cd5ab3c8e2798d23bce6b887ecf6fe528909b1924f
+Filename: ./debs/com.artsyskater.asglyphsorange_2.1_iphoneos-arm.deb
+Size: 1003910
+MD5sum: 5cef6ad122e195b16b2b832e1abb68a5
+SHA1: a680817f3672f4a096563c577d880ba55490b5e2
+SHA256: cca2db09a2a5b47b58b38009247262a5ec9ba77b1ab0c378fd051b7a74965b4c
 Section: Themes (SpringBoard)
 Description: An updated version of Glyphs in orange!
 Author: artsyskater <prof3ssorice@gmail.com>
 Name: asGlyphs - Orange
 
 Package: com.artsyskater.asglyphsred
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: artsyskater <prof3ssorice@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.artsyskater.asglyphsred_2.0_iphoneos-arm.deb
-Size: 883426
-MD5sum: a0942473afc5573c3fe5a692c6651fa8
-SHA1: a004a58b18c3d06719945f59e3083aed345845c8
-SHA256: 6cc423576441a6faad26dfdd82bc930c9fde12f76acbe674448689b449e295df
+Filename: ./debs/com.artsyskater.asglyphsred_2.1_iphoneos-arm.deb
+Size: 883460
+MD5sum: 9a1dabf0fd7abad5e94f55703aaa5488
+SHA1: 2e61381d23acd5fcdab47c7e9938340877aa246a
+SHA256: ae2a0376a824c340942b2636fd5a5198c90a5999721b0b32bb6d662790e60442
 Section: Themes (SpringBoard)
 Description: An updated version of Glyphs in red!
 Author: artsyskater <prof3ssorice@gmail.com>
 Name: asGlyphs - Red
 
 Package: com.artsyskater.asglyphsviolet
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: artsyskater <prof3ssorice@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.artsyskater.asglyphsviolet_2.0_iphoneos-arm.deb
-Size: 925138
-MD5sum: 7bbe667225b3d49f18d2662ef209d6f7
-SHA1: 4333ff778fcf67bce139cce84e4d3d0ed0664438
-SHA256: cb2acce1a8b2ee93b534754f04e277a36d4c80bc880ae63142accdd9caad035b
+Filename: ./debs/com.artsyskater.asglyphsviolet_2.1_iphoneos-arm.deb
+Size: 1014534
+MD5sum: 8d041acdaf6c54cdaf34ec6fb67d6dee
+SHA1: 405e6d7463711034014957e34669fcb599bd2954
+SHA256: da77186b9f7082abe51ed08a1294334c60b9cdf87c4a2766b56bd7852383a450
 Section: Themes (SpringBoard)
 Description: An updated version of Glyphs in violet!
 Author: artsyskater <prof3ssorice@gmail.com>
 Name: asGlyphs - Violet
 
 Package: com.artsyskater.asglyphswhite
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: artsyskater <prof3ssorice@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.artsyskater.asglyphswhite_2.0_iphoneos-arm.deb
-Size: 869916
-MD5sum: a407cffdc3b8ef47d33eba215848a75b
-SHA1: ab23add701c08643d002821e4839822f9e5c8d2b
-SHA256: a3b113dd981316c4ce5af70e02d4883f45fff3a2d1c617fe22f8580b3b7a28fb
+Filename: ./debs/com.artsyskater.asglyphswhite_2.1_iphoneos-arm.deb
+Size: 869812
+MD5sum: cb0bc0a617b43ff0b073dc6d79b8d337
+SHA1: efc89ba1571f47c0aeabd8bd25c11e9bc6cf4d80
+SHA256: e3e326024e950df07d62a321f652959eb4aaf40ad2edc786a27059514e7cfc36
 Section: Themes (SpringBoard)
 Description: An updated version of Glyphs in white!
 Author: artsyskater <prof3ssorice@gmail.com>
 Name: asGlyphs - White
 
 Package: com.artsyskater.asglyphsyellow
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: artsyskater <prof3ssorice@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.artsyskater.asglyphsyellow_2.0_iphoneos-arm.deb
-Size: 792924
-MD5sum: 59686b9b257b7e53b14d3b1ea91e7427
-SHA1: 98a8448b6a17ac5bcc37b863610d3e636cd55fb1
-SHA256: 869b92c2b7699bbc8166bc4996c8be58fbc106c4450ada383bc54ba337e73a69
+Filename: ./debs/com.artsyskater.asglyphsyellow_2.1_iphoneos-arm.deb
+Size: 893864
+MD5sum: caf9ee10598612054d577ef61c6674fb
+SHA1: 828e9a1965ed00d72fb638ca90ec0726958200a2
+SHA256: c89de81a7403f78e986df86a294c6079d5df9368996c7a6bb24415fda596d2e4
 Section: Themes (SpringBoard)
 Description: An updated version of Glyphs in yellow!
 Author: artsyskater <prof3ssorice@gmail.com>

@@ -1,7 +1,7 @@
 Package: com.artsyskater.asglyphswhite
 Name: asGlyphs - White
 Depends: com.anemonetheming.anemone
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Description: An updated version of Glyphs in white!
 Maintainer: artsyskater <prof3ssorice@gmail.com>
