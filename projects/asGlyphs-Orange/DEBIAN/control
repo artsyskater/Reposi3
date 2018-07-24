@@ -1,0 +1,9 @@
+Package: com.artsyskater.asglyphsblack
+Name: asGlyphs - Orange
+Depends: com.anemonetheming.anemone
+Version: 2.0
+Architecture: iphoneos-arm
+Description: An updated version of Glyphs in orange!
+Maintainer: artsyskater <prof3ssorice@gmail.com>
+Author: artsyskater <prof3ssorice@gmail.com>
+Section: Themes (SpringBoard)
